@@ -99,3 +99,17 @@
         border-radius: 40px;
     }
 }
+
+@media (max-width: 423px) {
+    .hero-action{
+        gap: 10px;
+    }
+    .hero-connect{
+        padding: 20px 25px;
+        font-size: 15px;
+    }
+    .hero-resume{
+        padding: 15px 25px;
+        font-size: 18px;
+    }
+}

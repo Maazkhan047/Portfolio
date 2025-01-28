@@ -124,3 +124,10 @@ body {
     margin: 0px 10px;
   }
 }
+
+
+@media (max-width: 500px) {
+    .navbar{
+      margin: 20px 15px;
+    }
+}

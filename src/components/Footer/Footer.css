@@ -100,3 +100,16 @@
         flex-direction: column-reverse;
     }
 }
+
+@media (max-width: 450px) {
+    .footer hr{
+        width: 250px;
+    }
+    .footer-email-input{
+        width: 200px;
+    }
+    .footer-bottom-right{
+        gap: 25px;
+        font-size: 15px;
+    }
+}
