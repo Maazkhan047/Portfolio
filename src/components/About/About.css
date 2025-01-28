@@ -32,6 +32,7 @@
 
 .about-sections img{
   border-radius: 10px;
+  border: 2px solid #4A00E0;
 }
 .about-right {
   display: flex;
