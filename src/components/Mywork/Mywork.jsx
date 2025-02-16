@@ -28,8 +28,8 @@ const Mywork = () => {
         <a href="https://edusity-pi-woad.vercel.app/">
           <img src={project_1} alt="Edusity" />
         </a>
-        <a href="">
-          <img src={project_8} alt="https://food-delivery-one-dusky.vercel.app/" />
+        <a href="https://food-delivery-one-dusky.vercel.app/">
+          <img src={project_8} alt="" />
         </a>
         <a href="">
           <img src={project_2} alt="" />
