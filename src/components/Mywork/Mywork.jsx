@@ -29,7 +29,7 @@ const Mywork = () => {
           <img src={project_1} alt="Edusity" />
         </a>
         <a href="">
-          <img src={project_8} alt="" />
+          <img src={project_8} alt="https://food-delivery-one-dusky.vercel.app/" />
         </a>
         <a href="">
           <img src={project_2} alt="" />
