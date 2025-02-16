@@ -3,6 +3,7 @@
     flex-direction: column;
     align-items: center;
     gap: 15px;
+   
 }
 
 
@@ -11,6 +12,7 @@
     width: 400px;
     border-radius: 50%;
     border: 5px solid #4A00E0;
+
 
 }
 
@@ -69,6 +71,14 @@
     border-color: #B415FF;
 }
 
+@keyframes fade{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
 
 @media (max-width: 800px) {
     .hero img{
@@ -99,6 +109,8 @@
         border-radius: 40px;
     }
 }
+
+
 
 @media (max-width: 423px) {
     .hero-action{

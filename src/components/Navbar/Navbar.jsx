@@ -12,12 +12,12 @@ const Navbar = () => {
     }
 
     const closeMenu = () =>{
-        menuRef.current.style.right = '-350px';
+        menuRef.current.style.right = '-250px';
     }
   return (
     <div className='navbar'>
         {/* <img src={logo} alt="logo" /> */}
-         <h1>M̷A̷A̷Z̷</h1>
+         <h1>MAAZ</h1>
         {/* <h1>معاز</h1> */}
         <img src={menu_open}  onClick={openMenu} alt='' className='nav-mob-open'/>
         <ul ref={menuRef} className='nav-menu'>

@@ -10,9 +10,8 @@
     justify-content: space-between;
 }
 .footer-top-left h1{
-    font-size: 40px;
-    background: linear-gradient(185deg, #8E2DE2, #00FFFF);
-  /* background: linear-gradient(135deg, #8E2DE2, #00FFFF); */
+    background: linear-gradient(135deg,#4a00e0, #8E2DE2 );
+    font-size: 50px;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
