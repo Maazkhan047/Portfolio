@@ -21,7 +21,7 @@ const Mywork = () => {
       </div>
       <div className="mywork-container">
         <a
-          href="https://net-flix-clone-tan.vercel.app/"
+          href="https://net-flix-clone-bice.vercel.app/"
         >
           <img src={project_7} alt="Netflix_clone" />
         </a>
